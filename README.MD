@@ -1,6 +1,6 @@
 # ICT Conscript Admission Test
 
-The Deployed version of the source can be found at https://mazkdevf.github.io/test-ictconscript-admission/
+The Deployed version of the source can be found at "https://mazkdevf.github.io/test-ictconscript-admission/" if it says that the sample data is not found please refresh page using force refresh CTRL + SHIFT + R !!!
 
 The Compiled version is in "gh-pages" branch!
 
