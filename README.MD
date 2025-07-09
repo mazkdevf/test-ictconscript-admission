@@ -1,4 +1,9 @@
 # ICT Conscript Admission Test
+
+The Deployed version of the source can be found at https://mazkdevf.github.io/test-ictconscript-admission/
+
+The Compiled version is in "gh-pages" branch!
+
 Thank you for taking interest in applying into our ICT Conscript Program. 
 
 In this repository you will find our **Admission Test** to the program. 
