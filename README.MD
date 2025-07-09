@@ -50,7 +50,8 @@ You will be notified if you are selected for an interview.
 Final selections are made after all interviews are completed.
 
 ## 3 Format of mail to return your Test
-```Mailto: ictvmrekry.pvjjk at mil.fi
+```
+Mailto: ictvmrekry.pvjjk at mil.fi
 Subject: Your Surname/ICT-varusmieshaun valintatehtävä suoritettu
 
 Hei!
@@ -65,7 +66,7 @@ Tehtävä on tarkastettavissa täällä:
 https://github.com/(your github user)/your-repository
 
 OmaNimi
-````
+```
 
 Make sure to follow the return instructions closely.
 
