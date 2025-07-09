@@ -10,8 +10,7 @@ class LogEntryService {
    */
   async loadSampleData(): Promise<LogEntry[]> {
     try {
-      // Use relative path that works with GitHub Pages static hosting
-      const response = await fetch("/sample-data/entries.json")
+      const response = await fetch("/test-ictconscript-admission/sample-data/entries.json")
 
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`)
